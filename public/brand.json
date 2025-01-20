@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Daraz",
+    "rating": 4.5,
+    "description": "The biggest e-commerce platform in Bangladesh.",
+    "brand_logo":"https://i.ibb.co.com/LnXmjNw/pic1.png",
+    "coupons": [
+      {
+        "coupon_code": "DARAZ10",
+        "description": "10% off on all products",
+        "expiry_date": "2025-01-31",
+        "condition": "No minimum purchase",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "Pickaboo",
+    "rating": 4.2,
+    "description": "One-stop shop for electronics and gadgets.",
+    "brand_logo": "https://i.ibb.co.com/HrR8zfH/pic9.png",
+    "coupons": [
+      {
+        "coupon_code": "PICK20",
+        "description": "20% off on electronics",
+        "expiry_date": "2025-02-15",
+        "condition": "Min purchase of 500 BDT",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://pickaboo.com",
+    "category": "Electronics",
+    "isSaleOn": false
+  },
+  {
+    "_id": "3",
+    "brand_name": "Chaldal",
+    "rating": 4.7,
+    "description": "Your daily essentials grocery store online.",
+    "brand_logo":"https://i.ibb.co.com/85PrGS5/pic3.jpg" ,
+    "coupons": [
+      {
+        "coupon_code": "CHAL10",
+        "description": "10% off on groceries",
+        "expiry_date": "2025-03-01",
+        "condition": "No minimum purchase",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://chaldal.com",
+    "category": "Grocery",
+    "isSaleOn": true
+  },
+  {
+    "_id": "4",
+    "brand_name": "AjkerDeal",
+    "rating": 4.0,
+    "description": "Online marketplace for various products in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/wQGxTCT/picc2.png",
+    "coupons": [
+      {
+        "coupon_code": "AJKER15",
+        "description": "15% off on your first purchase",
+        "expiry_date": "2025-05-10",
+        "condition": "Min purchase of 1000 BDT",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://ajkerdeal.com",
+    "category": "Marketplace",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "Robi",
+    "rating": 4.6,
+    "description": "Leading telecommunications company in Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/hCY3k3G/robi.jpg",
+    "coupons": [
+      {
+        "coupon_code": "ROBI25",
+        "description": "25% off on data packages",
+        "expiry_date": "2025-02-28",
+        "condition": "Applicable on all data plans",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://robi.com.bd",
+    "category": "Telecom",
+    "isSaleOn": false
+  },
+  {
+    "_id": "6",
+    "brand_name": "Bikroy",
+    "rating": 3.8,
+    "description": "Classified ads website for buying and selling goods.",
+    "brand_logo": "https://i.ibb.co.com/PM53zmZ/pic5.jpg",
+    "coupons": [
+      {
+        "coupon_code": "BIKROY5",
+        "description": "5% off on listings",
+        "expiry_date": "2025-04-20",
+        "condition": "No minimum purchase",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://bikroy.com",
+    "category": "Marketplace",
+    "isSaleOn": true
+  },
+  {
+    "_id": "7",
+    "brand_name": "Foodpanda",
+    "rating": 4.8,
+    "description": "Online food delivery service.",
+    "brand_logo":"https://i.ibb.co.com/9m00NLg/pic6.jpg",
+    "coupons": [
+      {
+        "coupon_code": "FOOD10",
+        "description": "10% off on your first order",
+        "expiry_date": "2025-01-15",
+        "condition": "Minimum order of 300 BDT",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": false
+  },
+  {
+    "_id": "8",
+    "brand_name": "Othoba",
+    "rating": 4.3,
+    "description": "Bangladesh's leading online shopping platform for lifestyle products.",
+    "brand_logo":"https://i.ibb.co.com/9cRdnYW/pic.jpg" ,
+    "coupons": [
+      {
+        "coupon_code": "OTHOBA12",
+        "description": "12% off on home appliances",
+        "expiry_date": "2025-06-10",
+        "condition": "Min purchase of 2000 BDT",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://othoba.com",
+    "category": "Home Appliances",
+    "isSaleOn": true
+  },
+  {
+    "_id": "9",
+    "brand_name": "Gadget & Gear",
+    "rating": 4.4,
+    "description": "Your online destination for the latest gadgets and tech products.",
+    "brand_logo": "https://i.ibb.co.com/W3xy4cG/pic4.jpg",
+    "coupons": [
+      {
+        "coupon_code": "GADGET15",
+        "description": "15% off on all gadgets",
+        "expiry_date": "2025-03-25",
+        "condition": "No minimum purchase",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://gadgetgear.com.bd",
+    "category": "Gadgets",
+    "isSaleOn": false
+  },
+  {
+    "_id": "10",
+    "brand_name": "Star Cineplex",
+    "rating": 4.6,
+    "description": "Book tickets online for the best movies in Bangladesh.",
+    "brand_logo": "/images/starcineplex.png",
+    "coupons": [
+      {
+        "coupon_code": "MOVIE5",
+        "description": "5% off on movie tickets",
+        "expiry_date": "2025-04-10",
+        "condition": "Applicable on all shows",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop_link": "https://starcineplex.com.bd",
+    "category": "Entertainment",
+    "isSaleOn": true
+  }
+]
